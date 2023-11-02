@@ -35,7 +35,7 @@ Module 1 Challenge
 
 The use of Joule, the SAP Personal Assistant, allowing customer to interact with their systems is a great addition.  
 * A feature to enhance their product could be suggestions for customers as they are using the software.  For instance, they could ask if they would like to analyze the data in a different way.  Also, they could show items that may be nearing a threshold – similar to predictive statistical process control (SPC) or statistical quality control (SQC) using statistics to monitor and control the quality of their processes.
-    >"There are not any other companies doing this natively that I could find in my research.  This would give them a definite advantage over their competition.  The only predictive SPC that I found in researching was companies with costs in the millions."  
+    >There are not any other companies doing this natively that I could find in my research.  This would give them a definite advantage over their competition.  The only predictive SPC that I found in researching was companies with costs in the millions.  
 * SAP could utilize machine learning AI to create predictive statistical process controls for customers to utilize in their daily processes – giving customers the ability to predict changes before they happen. 
 * Machine learning AI technologies learn from the data.  SAP already utilizes many types of data processing.  Adding machine learning would be a natural fit for applications. 
 
