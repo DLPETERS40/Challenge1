@@ -1,5 +1,4 @@
 # Challenge1
-Module 1 Challenge
 
 # AI Case Study
 ![hyperlink of SAP logo](https://th.bing.com/th?id=OIP.ir88YlKS4dJFVUD51cckYQHaF6&w=279&h=223&c=8&rs=1&qlt=90&o=6&dpr=3&pid=3.1&rm=2)
